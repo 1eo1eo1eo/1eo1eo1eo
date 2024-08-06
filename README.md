@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1eo1eo1eo
+- 👋 Hi, I’m Lev
 - 👀 I’m interested in python backend
 - 🌱 I’m currently learning fastapi
 
