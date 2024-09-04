@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **email - leo144112@yandex.ru telegram - leo144112**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/leo144112" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="leo144112" height="30" width="40" /></a>
 </p>
