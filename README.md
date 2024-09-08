@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lev</h1>
 <h3 align="center">A passionate python backend developer from Russia</h3>
 
-- 🌱 I’m currently learning **Django, FastAPI**
+- 🌱 I’m currently learning **FastAPI, Django**
 
 - 📫 How to reach me **email - leo144112@yandex.ru telegram - leo144112**
 
