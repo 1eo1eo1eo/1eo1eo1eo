@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://t.me/leo144112" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="leo144112" height="60" width="80" /></a>
+<a href="https://t.me/leo144112" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="leo144112" height="65" width="85" /></a>
 </p>
 
 # 💻 Tech Stack:
