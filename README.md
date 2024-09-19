@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **FastAPI, Django**
 
-- 📫 How to reach me **email - leo144112@yandex.ru telegram - leo144112**
+- 📫 How to reach me **email - leo144112@yandex.ru;
+                    telegram - leo144112**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
